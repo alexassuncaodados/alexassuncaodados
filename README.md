@@ -1,9 +1,9 @@
-# Alex Assunção - Data Scientist 📊
+# Alex Assunção - Data Scientist 
 
-## Sobre mim 🚀
+## Sobre mim 
 Sou Cientista de Dados formado pela [EBAC](https://ebaconline.com.br/) 🔗, estudante em Análise e Desenvolvimento de Sistemas. Estou em processo de transição de carreira em busca de oportunidades na área de dados. Minha experiência anterior em desenvolvimento web me proporcionou uma base sólida em lógica de programação e resolução de problemas, que agora aplico na análise de dados e machine learning.
 
-## Expertise 💡
+## Expertise 
 - **Background em Desenvolvimento Web**: 3+ anos trabalhando com HTML5, CSS, JavaScript, Node.js e PHP.
 - **Análise de Dados**: Python para análise e visualização de dados
 - **Machine Learning**: Desenvolvimento de modelos preditivos e classificação
@@ -11,7 +11,7 @@ Sou Cientista de Dados formado pela [EBAC](https://ebaconline.com.br/) 🔗, est
 - **Banco de Dados**: Experiência com SQL, MySQL, PostgreSQL e noções de AWS
 
 
-## Projetos em Destaque 🌟
+## Projetos em Destaque 
 
 | **[Olist Customer Satisfaction](https://github.com/alexassuncaodados/Olist-E-commerce-Satisfaction-Prediction)** | **[Credit Score Analysis](https://github.com/alexassuncaodados/Project_CreditScore)** | **[Análise de Crédito](https://github.com/alexassuncaodados/analise-credito)** |
 |:-------------------------:|:---------------------:|:------------------:|
@@ -61,7 +61,7 @@ Sou Cientista de Dados formado pela [EBAC](https://ebaconline.com.br/) 🔗, est
 
 
 
-## Contato 📫
+## Contato 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexassuncaodata/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexassuncao.dados@gmail.com)
