@@ -10,6 +10,21 @@ Sou Cientista de Dados formado pela <a href="https://www.ebac.com.br/" target="_
 - **Business Intelligence**: Criação de dashboards e relatórios com Power BI
 - **Banco de Dados**: Experiência com SQL, MySQL, PostgreSQL e noções de AWS
 
+
+## Projetos em Destaque 🌟
+- falta adicionar projetos
+
+### Credit Score Analysis
+Sistema de análise de crédito utilizando machine learning para predição de risco.
+- **Tecnologias**: Python, Scikit-learn, Streamlit
+- **Demo**: [Link para o projeto]
+- [Repositório](link-do-repo)
+
+### Sales Dashboard
+Dashboard interativo para análise de vendas e KPIs.
+- **Tecnologias**: Power BI, SQL
+- [Visualizar](link-do-projeto)
+
 ## Stack Técnico 🛠️
 
 ### Linguagens & Frameworks
@@ -42,26 +57,13 @@ Sou Cientista de Dados formado pela <a href="https://www.ebac.com.br/" target="_
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## Projetos em Destaque 🌟
-- falta adicionar projetos
 
-<!-- ### Credit Score Analysis
-Sistema de análise de crédito utilizando machine learning para predição de risco.
-- **Tecnologias**: Python, Scikit-learn, Streamlit
-- **Demo**: [Link para o projeto]
-- [Repositório](link-do-repo)
-
-### Sales Dashboard
-Dashboard interativo para análise de vendas e KPIs.
-- **Tecnologias**: Power BI, SQL
-- [Visualizar](link-do-projeto) -->
 
 ## Contato 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexassuncaodata)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexassuncao.dados@gmail.com)
 
-## Estatísticas GitHub 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
+
 
 
 
