@@ -1,5 +1,7 @@
 # Alex Assunção - Data Scientist 
-
+<p align="center">
+    <img src="banner.png" alt="Alex Assunção Data Scientist" width="800">
+</p>
 ## Sobre mim 
 Sou Cientista de Dados formado pela [EBAC](https://ebaconline.com.br/), estudante em Análise e Desenvolvimento de Sistemas. Estou em processo de transição de carreira em busca de oportunidades na área de dados. Minha experiência anterior em desenvolvimento web me proporcionou uma base sólida em lógica de programação e resolução de problemas, que agora aplico na análise de dados e machine learning.
 
@@ -35,9 +37,13 @@ Sou Cientista de Dados formado pela [EBAC](https://ebaconline.com.br/), estudant
 ### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-46A358?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=Seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyCaret](https://img.shields.io/badge/PyCaret-23ADA7?style=for-the-badge&logo=PyCaret&logoColor=white)
 
 ### Banco de Dados
