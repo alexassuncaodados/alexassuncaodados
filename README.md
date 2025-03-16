@@ -16,12 +16,12 @@ Sou Cientista de Dados formado pela [EBAC](https://ebaconline.com.br/), estudant
 
 ## Projetos em Destaque 
 
-| **[Olist Customer Satisfaction](https://github.com/alexassuncaodados/Olist-E-commerce-Satisfaction-Prediction)** | **[Credit Score Analysis](https://github.com/alexassuncaodados/Project_CreditScore)** | **[Análise de Crédito](https://github.com/alexassuncaodados/analise-credito)** |
+| **[Olist Customer Satisfaction](https://github.com/alexassuncaodados/Olist-E-commerce-Satisfaction-Prediction)** | **[Credit Score Analysis](https://github.com/alexassuncaodados/Project_CreditScore)** | **[Previsão de Rotatividade](https://github.com/alexassuncaodados/previsao_rotatividade_cartao_de_credito)** |
 |:-------------------------:|:---------------------:|:------------------:|
-| Modelo ML para prever satisfação de clientes em e-commerce | Sistema ML para predição de risco de crédito | Análise exploratória para avaliação de risco |
-| **Tecnologias**: Python, Scikit-learn, XGBoost, LightGBM, CatBoost | **Tecnologias**: Python, Scikit-learn, PyCaret, Streamlit | **Tecnologias**: Python, Pandas, Seaborn, Matplotlib |
-| **Resultados**: 80%+ acurácia | **Features**: Previsão de risco, métricas KS e GINI | **Análises**: Perfil de clientes e padrões de risco |
-| [📊 Repositório](https://github.com/alexassuncaodados/Olist-E-commerce-Satisfaction-Prediction) | [💳 Repositório](https://github.com/alexassuncaodados/Project_CreditScore) | [📈 Repositório](https://github.com/alexassuncaodados/analise-credito) |
+| Modelo ML para prever satisfação de clientes em e-commerce | Sistema ML para predição de risco de crédito | Modelo ML para prever cancelamento de cartões de crédito |
+| **Tecnologias**: Python, Scikit-learn, XGBoost, LightGBM, CatBoost | **Tecnologias**: Python, Scikit-learn, PyCaret, Streamlit | **Tecnologias**: Python, LightGBM, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn |
+| **Resultados**: 80%+ acurácia | **Features**: Previsão de risco, métricas KS e GINI | **Resultados**: 96.5% acurácia, ROC-AUC 0.991 |
+| [📊 Repositório](https://github.com/alexassuncaodados/Olist-E-commerce-Satisfaction-Prediction) | [💳 Repositório](https://github.com/alexassuncaodados/Project_CreditScore) | [📈 Repositório](https://github.com/alexassuncaodados/previsao_rotatividade_cartao_de_credito) |
 
 
 
