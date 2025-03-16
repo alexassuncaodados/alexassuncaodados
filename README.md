@@ -1,6 +1,6 @@
 <!-- # Alex Assunção - Data Scientist  -->
 <p align="center">
-    <img src="banner.png" alt="Alex Assunção Data Scientist" width="800">
+    <img src="banner_alex_v1.png" alt="Alex Assunção Data Scientist" width="800">
 </p>
 
 ## Sobre mim 
