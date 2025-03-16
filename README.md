@@ -13,12 +13,13 @@ Sou Cientista de Dados formado pela [EBAC](https://ebaconline.com.br/) 🔗, est
 
 ## Projetos em Destaque 🌟
 
-| Olist Customer Satisfaction | Credit Score Analysis | Análise de Crédito |
+| **Olist Customer Satisfaction** | **Credit Score Analysis** | **Análise de Crédito** |
 |:-------------------------:|:---------------------:|:------------------:|
 | Modelo ML para prever satisfação de clientes em e-commerce | Sistema ML para predição de risco de crédito | Análise exploratória para avaliação de risco |
 | **Tecnologias**: Python, Scikit-learn, XGBoost, LightGBM, CatBoost | **Tecnologias**: Python, Scikit-learn, PyCaret, Streamlit | **Tecnologias**: Python, Pandas, Seaborn, Matplotlib |
 | **Resultados**: 80%+ acurácia | **Features**: Previsão de risco, métricas KS e GINI | **Análises**: Perfil de clientes e padrões de risco |
 | [📊 Repositório](https://github.com/alexassuncaodados/Olist-E-commerce-Satisfaction-Prediction) | [💳 Repositório](https://github.com/alexassuncaodados/Project_CreditScore) | [📈 Repositório](https://github.com/alexassuncaodados/analise-credito) |
+
 
 
 ## Stack Técnico 🛠️
