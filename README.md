@@ -13,25 +13,13 @@ Sou Cientista de Dados formado pela [EBAC](https://ebaconline.com.br/) 🔗, est
 
 ## Projetos em Destaque 🌟
 
+| Olist Customer Satisfaction | Credit Score Analysis | Análise de Crédito |
+|:-------------------------:|:---------------------:|:------------------:|
+| Modelo ML para prever satisfação de clientes em e-commerce | Sistema ML para predição de risco de crédito | Análise exploratória para avaliação de risco |
+| **Tecnologias**: Python, Scikit-learn, XGBoost, LightGBM, CatBoost | **Tecnologias**: Python, Scikit-learn, PyCaret, Streamlit | **Tecnologias**: Python, Pandas, Seaborn, Matplotlib |
+| **Resultados**: 80%+ acurácia | **Features**: Previsão de risco, métricas KS e GINI | **Análises**: Perfil de clientes e padrões de risco |
+| [📊 Repositório](https://github.com/alexassuncaodados/Olist-E-commerce-Satisfaction-Prediction) | [💳 Repositório](https://github.com/alexassuncaodados/Project_CreditScore) | [📈 Repositório](https://github.com/alexassuncaodados/analise-credito) |
 
-### 1. Olist Customer Satisfaction Prediction
-Modelo de machine learning para prever satisfação de clientes na maior plataforma de e-commerce do Brasil.
-- **Tecnologias**: Python, Scikit-learn, XGBoost, LightGBM, CatBoost
-- **Resultados**: Acurácia de 80%+ na previsão de satisfação
-- [Repositório](https://github.com/alexassuncaodados/Olist-E-commerce-Satisfaction-Prediction)
-
-### 2. Credit Score Analysis
-Sistema de machine learning para predição de risco de crédito em aplicações de cartão de crédito.
-- **Tecnologias**: Python, Scikit-learn, PyCaret, Streamlit
-- **Funcionalidades**: Previsão de risco, análise de variáveis, métricas KS e GINI, interface web
-- [Repositório](https://github.com/alexassuncaodados/Project_CreditScore)
-
-
-### 3. Análise de Crédito
-Análise exploratória de dados para avaliação de risco de crédito.
-- **Tecnologias**: Python, Pandas, Seaborn, Matplotlib
-- **Análises**: Perfil de clientes, padrões de transações, indicadores de risco
-- [Repositório](https://github.com/alexassuncaodados/analise-credito)
 
 ## Stack Técnico 🛠️
 
