@@ -1,4 +1,4 @@
-# Alex Assunção - Data Scientist 
+<!-- # Alex Assunção - Data Scientist  -->
 <p align="center">
     <img src="banner.png" alt="Alex Assunção Data Scientist" width="800">
 </p>
