@@ -13,7 +13,7 @@ Sou Cientista de Dados formado pela [EBAC](https://ebaconline.com.br/) 🔗, est
 
 ## Projetos em Destaque 🌟
 
-| **Olist Customer Satisfaction** | **Credit Score Analysis** | **Análise de Crédito** |
+| **[Olist Customer Satisfaction](https://github.com/alexassuncaodados/Olist-E-commerce-Satisfaction-Prediction)** | **[Credit Score Analysis](https://github.com/alexassuncaodados/Project_CreditScore)** | **[Análise de Crédito](https://github.com/alexassuncaodados/analise-credito)** |
 |:-------------------------:|:---------------------:|:------------------:|
 | Modelo ML para prever satisfação de clientes em e-commerce | Sistema ML para predição de risco de crédito | Análise exploratória para avaliação de risco |
 | **Tecnologias**: Python, Scikit-learn, XGBoost, LightGBM, CatBoost | **Tecnologias**: Python, Scikit-learn, PyCaret, Streamlit | **Tecnologias**: Python, Pandas, Seaborn, Matplotlib |
@@ -63,9 +63,7 @@ Sou Cientista de Dados formado pela [EBAC](https://ebaconline.com.br/) 🔗, est
 
 [![whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541987986571&text=Ol%C3%A1%2C%20Alex!)
 
-```
 
-```
 
 
 
