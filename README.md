@@ -1,7 +1,7 @@
 # Alex Assunção - Data Scientist 📊
 
 ## Sobre mim 🚀
-Sou Cientista de Dados formado pela <a href="https://ebaconline.com.br/" target="blank">EBAC</a>, estudante em Análise e Desenvolvimento de Sistemas. Estou em processo de transição de carreira em busca de oportunidades na área de dados. Minha experiência anterior em desenvolvimento web me proporcionou uma base sólida em lógica de programação e resolução de problemas, que agora aplico na análise de dados e machine learning.
+Sou Cientista de Dados formado pela [EBAC](https://ebaconline.com.br/) 🔗, estudante em Análise e Desenvolvimento de Sistemas. Estou em processo de transição de carreira em busca de oportunidades na área de dados. Minha experiência anterior em desenvolvimento web me proporcionou uma base sólida em lógica de programação e resolução de problemas, que agora aplico na análise de dados e machine learning.
 
 ## Expertise 💡
 - **Background em Desenvolvimento Web**: 3+ anos trabalhando com HTML5, CSS, JavaScript, Node.js e PHP.
