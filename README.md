@@ -2,6 +2,7 @@
 <p align="center">
     <img src="banner.png" alt="Alex Assunção Data Scientist" width="800">
 </p>
+
 ## Sobre mim 
 Sou Cientista de Dados formado pela [EBAC](https://ebaconline.com.br/), estudante em Análise e Desenvolvimento de Sistemas. Estou em processo de transição de carreira em busca de oportunidades na área de dados. Minha experiência anterior em desenvolvimento web me proporcionou uma base sólida em lógica de programação e resolução de problemas, que agora aplico na análise de dados e machine learning.
 
