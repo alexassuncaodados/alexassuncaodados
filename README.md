@@ -12,18 +12,26 @@ Sou Cientista de Dados formado pela [EBAC](https://ebaconline.com.br/) 🔗, est
 
 
 ## Projetos em Destaque 🌟
-- falta adicionar projetos
 
-### Credit Score Analysis
-Sistema de análise de crédito utilizando machine learning para predição de risco.
-- **Tecnologias**: Python, Scikit-learn, Streamlit
-- **Demo**: [Link para o projeto]
-- [Repositório](link-do-repo)
 
-### Sales Dashboard
-Dashboard interativo para análise de vendas e KPIs.
-- **Tecnologias**: Power BI, SQL
-- [Visualizar](link-do-projeto)
+### 1. Olist Customer Satisfaction Prediction
+Modelo de machine learning para prever satisfação de clientes na maior plataforma de e-commerce do Brasil.
+- **Tecnologias**: Python, Scikit-learn, XGBoost, LightGBM, CatBoost
+- **Resultados**: Acurácia de 80%+ na previsão de satisfação
+- [Repositório](https://github.com/alexassuncaodados/Olist-E-commerce-Satisfaction-Prediction)
+
+### 2. Credit Score Analysis
+Sistema de machine learning para predição de risco de crédito em aplicações de cartão de crédito.
+- **Tecnologias**: Python, Scikit-learn, PyCaret, Streamlit
+- **Funcionalidades**: Previsão de risco, análise de variáveis, métricas KS e GINI, interface web
+- [Repositório](https://github.com/alexassuncaodados/Project_CreditScore)
+
+
+### 3. Análise de Crédito
+Análise exploratória de dados para avaliação de risco de crédito.
+- **Tecnologias**: Python, Pandas, Seaborn, Matplotlib
+- **Análises**: Perfil de clientes, padrões de transações, indicadores de risco
+- [Repositório](https://github.com/alexassuncaodados/analise-credito)
 
 ## Stack Técnico 🛠️
 
