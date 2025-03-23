@@ -20,7 +20,7 @@ Sou Cientista de Dados formado pela [EBAC](https://ebaconline.com.br/), estudant
 |:-------------------------:|:---------------------:|:------------------:|
 | Modelo ML para prever satisfação de clientes em e-commerce | Sistema ML para predição de risco de crédito | Modelo ML para prever cancelamento de cartões de crédito |
 | **Tecnologias**: Python, Scikit-learn, XGBoost, LightGBM, CatBoost | **Tecnologias**: Python, Scikit-learn, PyCaret, Streamlit | **Tecnologias**: Python, LightGBM, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn |
-| **Resultados**: 80%+ acurácia | **Features**: Previsão de risco, métricas KS e GINI | **Resultados**: 96.5% acurácia, ROC-AUC 0.991 |
+| **Resultados**: 84%+ acurácia | **Features**: Previsão de risco, métricas KS e GINI | **Resultados**: 97.18% acurácia, ROC-AUC 0.991 |
 | [📊 Repositório](https://github.com/alexassuncaodados/Olist-E-commerce-Satisfaction-Prediction) | [💳 Repositório](https://github.com/alexassuncaodados/Project_CreditScore) | [📈 Repositório](https://github.com/alexassuncaodados/previsao_rotatividade_cartao_de_credito) |
 
 
